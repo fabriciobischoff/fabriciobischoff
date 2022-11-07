@@ -1,4 +1,4 @@
-### Olá! Eu sou o Fabricio Bischoff, estudante de programação e tecnologia.
+### Olá! Eu sou Fabricio Bischoff, estudante de programação e tecnologia.
 
 - 🌱 Estudando Java e Spring
 
